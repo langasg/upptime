@@ -8,7 +8,7 @@ sites:
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: PLex
-    url: https://langasg1.ddns.net:32400 
+    url: http://langasg1.ddns.net:32400 
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
