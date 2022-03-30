@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/langasg1.ddns.net",
     "slug": "grafana",
     "status": "up",
-    "uptime": "94.94%",
-    "uptimeDay": "94.94%",
-    "uptimeWeek": "94.94%",
-    "uptimeMonth": "94.94%",
-    "uptimeYear": "94.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 491,
     "timeDay": 491,
     "timeWeek": 491,
     "timeMonth": 491,
     "timeYear": 491,
-    "dailyMinutesDown": {
-      "2022-03-30": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
