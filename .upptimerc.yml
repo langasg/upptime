@@ -13,6 +13,7 @@ sites:
     url: http://langasg1.ddns.net:32400/web/index.html
   - name: Remad
     url: https://www.remad.es
+    __dangerous__insecure: true
   - name: Hacker News
     url: https://news.ycombinator.com
     
