@@ -9,7 +9,7 @@ sites:
     url: https://en.wikipedia.org
   - name: Grafana
     url: http://langasg1.ddns.net:8082
-  - name: Grafana
+  - name: Plex
     url: http://langasg1.ddns.net:32400/web/index.html
   - name: Remad
     url: http://www.remad.es
