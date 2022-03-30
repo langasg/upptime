@@ -12,7 +12,7 @@ sites:
   - name: Plex
     url: http://langasg1.ddns.net:32400/web/index.html
   - name: Remad
-    url: http://www.remad.es
+    url: https://www.remad.es
   - name: Hacker News
     url: https://news.ycombinator.com
   #- name: Test Broken Site
