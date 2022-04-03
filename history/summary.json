@@ -59,18 +59,19 @@
     "icon": "https://favicons.githubusercontent.com/langasg1.ddns.net",
     "slug": "plex",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "98.43%",
+    "uptimeDay": "94.78%",
+    "uptimeWeek": "98.43%",
+    "uptimeMonth": "98.43%",
+    "uptimeYear": "98.43%",
     "time": 296,
     "timeDay": 293,
     "timeWeek": 296,
     "timeMonth": 296,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2022-04-02": 0
+      "2022-04-03": 73,
+      "2022-04-02": 2
     }
   },
   {
