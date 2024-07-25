@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 78,
-    "timeWeek": 96,
-    "timeMonth": 107,
+    "timeDay": 152,
+    "timeWeek": 107,
+    "timeMonth": 110,
     "timeYear": 104,
     "dailyMinutesDown": {
       "2024-05-01": 31,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 43,
-    "timeWeek": 149,
+    "timeDay": 221,
+    "timeWeek": 154,
     "timeMonth": 275,
-    "timeYear": 222,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2023-09-11": 20
     }
@@ -50,11 +50,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.65%",
-    "uptimeYear": "96.39%",
+    "uptimeYear": "96.48%",
     "time": 450,
-    "timeDay": 498,
-    "timeWeek": 370,
-    "timeMonth": 378,
+    "timeDay": 308,
+    "timeWeek": 366,
+    "timeMonth": 376,
     "timeYear": 450,
     "dailyMinutesDown": {
       "2024-07-16": 1071,
@@ -106,8 +106,7 @@
       "2023-09-15": 115,
       "2023-08-24": 1056,
       "2023-08-23": 864,
-      "2023-07-31": 17,
-      "2023-07-26": 15
+      "2023-07-31": 17
     }
   },
   {
@@ -116,18 +115,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/langasg1.ddns.net.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "88.96%",
+    "uptime": "88.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "51.29%",
-    "uptimeYear": "79.08%",
-    "time": 618,
+    "uptimeMonth": "49.62%",
+    "uptimeYear": "78.89%",
+    "time": 619,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 273,
-    "timeYear": 572,
+    "timeMonth": 267,
+    "timeYear": 573,
     "dailyMinutesDown": {
-      "2024-07-24": 69,
+      "2024-07-25": 68,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -251,8 +251,7 @@
       "2023-08-18": 819,
       "2023-08-17": 1440,
       "2023-08-16": 1440,
-      "2023-08-15": 244,
-      "2023-07-26": 15
+      "2023-08-15": 244
     }
   },
   {
@@ -261,18 +260,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mriaza.ddns.net.ico",
     "slug": "riaza",
     "status": "down",
-    "uptime": "25.85%",
+    "uptime": "25.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "24.54%",
-    "time": 839,
+    "uptimeYear": "24.36%",
+    "time": 835,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 818,
+    "timeYear": 817,
     "dailyMinutesDown": {
-      "2024-07-24": 69,
+      "2024-07-25": 68,
+      "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
       "2024-07-21": 1440,
@@ -564,11 +564,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 816,
-    "timeDay": 935,
-    "timeWeek": 685,
-    "timeMonth": 709,
-    "timeYear": 834,
+    "time": 815,
+    "timeDay": 663,
+    "timeWeek": 704,
+    "timeMonth": 710,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2023-10-26": 86
     }
@@ -585,8 +585,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 333,
-    "timeDay": 107,
-    "timeWeek": 321,
+    "timeDay": 416,
+    "timeWeek": 319,
     "timeMonth": 344,
     "timeYear": 346,
     "dailyMinutesDown": {
