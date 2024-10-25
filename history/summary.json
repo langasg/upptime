@@ -109,8 +109,8 @@
     "slug": "plex",
     "status": "up",
     "uptime": "85.59%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.01%",
+    "uptimeDay": "7.60%",
+    "uptimeWeek": "1.09%",
     "uptimeMonth": "22.66%",
     "uptimeYear": "69.08%",
     "time": 527,
@@ -281,8 +281,7 @@
       "2023-11-05": 1440,
       "2023-11-04": 1440,
       "2023-11-03": 619,
-      "2023-10-29": 18,
-      "2023-10-26": 24
+      "2023-10-29": 18
     }
   },
   {
@@ -295,14 +294,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "1.48%",
+    "uptimeYear": "1.46%",
     "time": 808,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2024-10-24": 1409,
+      "2024-10-25": 78,
+      "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -680,9 +680,7 @@
     "timeWeek": 789,
     "timeMonth": 758,
     "timeYear": 848,
-    "dailyMinutesDown": {
-      "2023-10-26": 86
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hacker News",
