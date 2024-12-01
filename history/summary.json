@@ -13,7 +13,7 @@
     "time": 103,
     "timeDay": 77,
     "timeWeek": 123,
-    "timeMonth": 103,
+    "timeMonth": 104,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2024-05-01": 31
@@ -33,7 +33,7 @@
     "time": 226,
     "timeDay": 197,
     "timeWeek": 261,
-    "timeMonth": 204,
+    "timeMonth": 209,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/langasg1.ddns.net.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "93.44%",
+    "uptime": "93.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "87.86%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "87.84%",
     "time": 440,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 284,
+    "timeMonth": 0,
     "timeYear": 422,
     "dailyMinutesDown": {
-      "2024-11-30": 1417,
+      "2024-12-01": 103,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -145,7 +146,7 @@
     "time": 542,
     "timeDay": 333,
     "timeWeek": 616,
-    "timeMonth": 511,
+    "timeMonth": 510,
     "timeYear": 543,
     "dailyMinutesDown": {
       "2024-11-30": 96,
@@ -298,8 +299,7 @@
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
-      "2023-12-03": 1440,
-      "2023-12-02": 274
+      "2023-12-03": 1440
     }
   },
   {
@@ -311,7 +311,7 @@
     "uptime": "20.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 820,
     "timeDay": 0,
@@ -319,7 +319,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-30": 1417,
+      "2024-12-01": 103,
+      "2024-11-30": 1440,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -682,8 +683,7 @@
       "2023-12-06": 1440,
       "2023-12-05": 1440,
       "2023-12-04": 1440,
-      "2023-12-03": 1440,
-      "2023-12-02": 1440
+      "2023-12-03": 1440
     }
   },
   {
@@ -700,7 +700,7 @@
     "time": 823,
     "timeDay": 755,
     "timeWeek": 684,
-    "timeMonth": 763,
+    "timeMonth": 760,
     "timeYear": 842,
     "dailyMinutesDown": {}
   },
@@ -718,7 +718,7 @@
     "time": 332,
     "timeDay": 450,
     "timeWeek": 367,
-    "timeMonth": 276,
+    "timeMonth": 281,
     "timeYear": 341,
     "dailyMinutesDown": {
       "2024-06-21": 16,
