@@ -43,18 +43,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/langasg1.ddns.net.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "87.86%",
+    "uptime": "87.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.08%",
+    "uptimeYear": "71.06%",
     "time": 439,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2025-01-31": 1421,
+      "2025-02-01": 80,
+      "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -193,9 +194,9 @@
     "slug": "plex",
     "status": "up",
     "uptime": "86.72%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "95.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "95.85%",
     "uptimeYear": "72.12%",
     "time": 568,
     "timeDay": 539,
@@ -203,7 +204,6 @@
     "timeMonth": 461,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2025-01-31": 11,
       "2025-01-20": 151,
       "2025-01-19": 1371,
       "2025-01-14": 190,
@@ -368,7 +368,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-31": 1421,
+      "2025-02-01": 80,
+      "2025-01-31": 1440,
       "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
@@ -731,8 +732,7 @@
       "2024-02-06": 1440,
       "2024-02-05": 1440,
       "2024-02-04": 1440,
-      "2024-02-03": 1440,
-      "2024-02-02": 1440
+      "2024-02-03": 1440
     }
   },
   {
