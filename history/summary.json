@@ -45,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/langasg1.ddns.net.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "76.14%",
+    "uptime": "76.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 395,
     "dailyMinutesDown": {
-      "2025-07-10": 1184,
+      "2025-07-10": 1194,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -343,7 +343,7 @@
     "timeMonth": 0,
     "timeYear": 448,
     "dailyMinutesDown": {
-      "2025-07-10": 1184,
+      "2025-07-10": 1194,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -530,7 +530,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 1184,
+      "2025-07-10": 1194,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,
@@ -922,19 +922,19 @@
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 306,
-    "timeDay": 427,
-    "timeWeek": 252,
-    "timeMonth": 273,
+    "timeDay": 309,
+    "timeWeek": 245,
+    "timeMonth": 270,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2025-07-10": 0,
+      "2025-07-10": 11,
       "2025-05-09": 29
     }
   }
