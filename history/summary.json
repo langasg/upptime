@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 110,
-    "timeDay": 80,
-    "timeWeek": 95,
+    "timeDay": 79,
+    "timeWeek": 91,
     "timeMonth": 99,
     "timeYear": 113,
     "dailyMinutesDown": {
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 76,
-    "timeWeek": 244,
-    "timeMonth": 247,
+    "timeDay": 87,
+    "timeWeek": 216,
+    "timeMonth": 242,
     "timeYear": 191,
     "dailyMinutesDown": {}
   },
@@ -45,18 +45,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/langasg1.ddns.net.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "70.26%",
+    "uptime": "70.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "2.00%",
+    "uptimeYear": "1.73%",
     "time": 395,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 385,
+    "timeYear": 372,
     "dailyMinutesDown": {
-      "2025-10-19": 101,
+      "2025-10-20": 99,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -425,7 +426,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/langasg1.ddns.net.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "80.49%",
+    "uptime": "80.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -436,7 +437,8 @@
     "timeMonth": 0,
     "timeYear": 477,
     "dailyMinutesDown": {
-      "2025-10-19": 101,
+      "2025-10-20": 99,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -598,8 +600,7 @@
       "2024-10-24": 1408,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1440,
-      "2024-10-20": 1440
+      "2024-10-21": 1440
     }
   },
   {
@@ -608,7 +609,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mriaza.ddns.net.ico",
     "slug": "riaza",
     "status": "down",
-    "uptime": "13.74%",
+    "uptime": "13.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -619,7 +620,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-19": 101,
+      "2025-10-20": 99,
+      "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
       "2025-10-16": 1440,
@@ -982,8 +984,7 @@
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
-      "2024-10-21": 1440,
-      "2024-10-20": 1440
+      "2024-10-21": 1440
     }
   },
   {
@@ -997,10 +998,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 793,
-    "timeDay": 1056,
-    "timeWeek": 1021,
-    "timeMonth": 1070,
+    "time": 790,
+    "timeDay": 1126,
+    "timeWeek": 989,
+    "timeMonth": 1083,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2025-02-26": 27
@@ -1018,10 +1019,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 308,
-    "timeDay": 412,
-    "timeWeek": 292,
-    "timeMonth": 266,
-    "timeYear": 307,
+    "timeDay": 108,
+    "timeWeek": 274,
+    "timeMonth": 255,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2025-05-09": 29
     }
