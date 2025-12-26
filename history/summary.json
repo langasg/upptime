@@ -11,9 +11,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 112,
-    "timeDay": 85,
-    "timeWeek": 120,
-    "timeMonth": 113,
+    "timeDay": 79,
+    "timeWeek": 115,
+    "timeMonth": 112,
     "timeYear": 115,
     "dailyMinutesDown": {
       "2025-12-22": 25,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
-    "timeDay": 710,
-    "timeWeek": 392,
-    "timeMonth": 272,
+    "timeDay": 217,
+    "timeWeek": 354,
+    "timeMonth": 258,
     "timeYear": 192,
     "dailyMinutesDown": {}
   },
@@ -47,18 +47,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/langasg1.ddns.net.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "66.81%",
+    "uptime": "66.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 409,
+    "time": 410,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-25": 104,
+      "2025-12-26": 103,
+      "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -421,8 +422,7 @@
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
-      "2024-12-27": 1440,
-      "2024-12-26": 1440
+      "2024-12-27": 1440
     }
   },
   {
@@ -431,18 +431,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/langasg1.ddns.net.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "76.54%",
+    "uptime": "76.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "45.45%",
+    "uptimeYear": "45.18%",
     "time": 450,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 457,
+    "timeYear": 458,
     "dailyMinutesDown": {
-      "2025-12-25": 104,
+      "2025-12-26": 103,
+      "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -670,7 +671,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mriaza.ddns.net.ico",
     "slug": "riaza",
     "status": "down",
-    "uptime": "12.84%",
+    "uptime": "12.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -681,7 +682,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-25": 104,
+      "2025-12-26": 103,
+      "2025-12-25": 1440,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -1044,8 +1046,7 @@
       "2024-12-30": 1440,
       "2024-12-29": 1440,
       "2024-12-28": 1440,
-      "2024-12-27": 1440,
-      "2024-12-26": 1440
+      "2024-12-27": 1440
     }
   },
   {
@@ -1059,11 +1060,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 891,
-    "timeDay": 2268,
-    "timeWeek": 2286,
-    "timeMonth": 1982,
-    "timeYear": 926,
+    "time": 893,
+    "timeDay": 1986,
+    "timeWeek": 2332,
+    "timeMonth": 1953,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2025-11-24": 18,
       "2025-02-26": 27
@@ -1081,10 +1082,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 305,
-    "timeDay": 161,
-    "timeWeek": 268,
-    "timeMonth": 298,
-    "timeYear": 309,
+    "timeDay": 94,
+    "timeWeek": 248,
+    "timeMonth": 294,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2025-05-09": 29
     }
