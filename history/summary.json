@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 143,
-    "timeDay": 98,
-    "timeWeek": 137,
-    "timeMonth": 125,
+    "timeDay": 83,
+    "timeWeek": 138,
+    "timeMonth": 126,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2026-02-15": 18,
@@ -35,10 +35,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 193,
-    "timeDay": 225,
-    "timeWeek": 219,
-    "timeMonth": 193,
+    "time": 192,
+    "timeDay": 199,
+    "timeWeek": 241,
+    "timeMonth": 178,
     "timeYear": 199,
     "dailyMinutesDown": {
       "2026-03-14": 35
@@ -50,7 +50,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/langasg1.ddns.net.ico",
     "slug": "grafana",
     "status": "down",
-    "uptime": "62.04%",
+    "uptime": "61.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -61,7 +61,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-09": 144,
+      "2026-04-10": 155,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -424,8 +425,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -434,18 +434,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/langasg1.ddns.net.ico",
     "slug": "plex",
     "status": "down",
-    "uptime": "71.08%",
+    "uptime": "71.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "22.45%",
+    "uptimeYear": "22.17%",
     "time": 480,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2026-04-09": 144,
+      "2026-04-10": 155,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -751,7 +752,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mriaza.ddns.net.ico",
     "slug": "riaza",
     "status": "down",
-    "uptime": "11.66%",
+    "uptime": "11.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -762,7 +763,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-09": 144,
+      "2026-04-10": 155,
+      "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
       "2026-04-06": 1440,
@@ -1125,8 +1127,7 @@
       "2025-04-14": 1440,
       "2025-04-13": 1440,
       "2025-04-12": 1440,
-      "2025-04-11": 1440,
-      "2025-04-10": 1440
+      "2025-04-11": 1440
     }
   },
   {
@@ -1140,11 +1141,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.97%",
-    "time": 1023,
-    "timeDay": 441,
-    "timeWeek": 534,
-    "timeMonth": 564,
-    "timeYear": 1121,
+    "time": 1024,
+    "timeDay": 1126,
+    "timeWeek": 645,
+    "timeMonth": 568,
+    "timeYear": 1123,
     "dailyMinutesDown": {
       "2026-03-10": 114,
       "2025-11-24": 18
@@ -1162,10 +1163,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 305,
-    "timeDay": 165,
-    "timeWeek": 308,
-    "timeMonth": 298,
-    "timeYear": 304,
+    "timeDay": 314,
+    "timeWeek": 289,
+    "timeMonth": 294,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2026-02-08": 22,
       "2025-05-09": 29
